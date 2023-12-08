@@ -1,0 +1,19 @@
+
+
+/* body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #8594e4 , #d5def5); 
+} */
+
+.overview-container {
+   background-color: #fff;
+  
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  background: none; /* Remove background color from the container */
+  padding: 20px; /* Add padding for content inside the container */
+}

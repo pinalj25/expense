@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "firstName": "pinal",
+      "lastName": "jain",
+      "email": "pinaljain1@gmail.com",
+      "mobileNo": "09892628518",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "id": 1
+    },
+    {
+      "firstName": "pinal",
+      "lastName": "jain",
+      "email": "pinaljain1@gmail.com",
+      "mobileNo": "09892628518",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "id": 2
+    }
+  ],
+  "admin": [
+    {}
+  ],
+  "signup": [
+    {}
+  ]
+}
