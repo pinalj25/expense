@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import './balance.css';
+import './Tl.css';
+import './balance.css'
 
 export default function TransactionList({ transactions, onDelete, onEdit }) {
   const [searchTerm, setSearchTerm] = useState('');

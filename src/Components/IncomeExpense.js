@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from "react";
-
+import './Ie.css';
 export default function IncomeExpense({ transactions, updateIncome, updateExpense }) {
   const [income, setIncome] = useState(0);
   const [expense, setExpense] = useState(0);

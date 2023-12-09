@@ -1,12 +1,12 @@
 
 import React from 'react'
-import './balance.css';
-import Navbar from './Navbar';
+import './home.css';
+
 
 export default function Home() {
   return (
     <>
-     <Navbar/>
+  
     <div className="home-page">
       
   <header>
@@ -29,7 +29,7 @@ export default function Home() {
   </section>
   <section className="call-to-action">
     <p>Ready to take control of your finances?</p>
-    <button className="cta-button">Get Started</button>
+    <button className="cta-button" ><a href='./et'>Get Started</a></button>
   </section>
 </div>
 </>
